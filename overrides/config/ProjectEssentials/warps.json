@@ -1,0 +1,8 @@
+{
+    "addResistanceEffect": true,
+    "resistanceEffectDuration": 200,
+    "enableTeleportSound": true,
+    "enableTeleportEffect": true,
+    "warps": [
+    ]
+}
